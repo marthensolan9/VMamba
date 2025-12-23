@@ -322,10 +322,7 @@ If you use this code in your research, please cite:
 @mastersthesis{solang2025visionmamba,
   author  = {Marthen Amelius Solang},
   title   = {Peningkatan Robustness Vision Mamba Terhadap Serangan Adversarial},
-  school  = {Institut Teknologi Bandung},
   year    = {2025},
-  type    = {Master's Thesis},
-  note    = {Program Studi Magister Informatika}
 }
 ```
 
