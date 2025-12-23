@@ -1,0 +1,27 @@
+{
+  "base_model": "outputs_vim_rambu_small_20251119_220259/best_vim_rambu_small.pth",
+  "batch_size": 32,
+  "max_epochs": 60,
+  "base_lr": 0.0003,
+  "weight_decay": 0.0001,
+  "attack_epsilons": [
+    0.01568627450980392,
+    0.03137254901960784
+  ],
+  "pgd_alpha": 0.00784313725490196,
+  "pgd_steps": 10,
+  "num_classes": 21,
+  "model_config": {
+    "dim": 192,
+    "dt_rank": 24,
+    "dim_inner": 192,
+    "d_state": 64,
+    "num_classes": 21,
+    "image_size": 224,
+    "patch_size": 32,
+    "channels": 3,
+    "dropout": 0.2,
+    "depth": 6
+  },
+  "compatible_with_base": true
+}

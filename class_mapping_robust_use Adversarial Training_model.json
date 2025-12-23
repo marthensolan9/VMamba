@@ -1,0 +1,23 @@
+{
+  "lampu_hijau": 0,
+  "lampu_kuning": 1,
+  "lampu_merah": 2,
+  "larangan-parkir": 3,
+  "larangan_belok_kanan": 4,
+  "larangan_belok_kiri": 5,
+  "larangan_berhenti": 6,
+  "larangan_berjalan_terus_wajib_berhenti_sesaat": 7,
+  "larangan_masuk_bagi_kendaraan_bermotor_dan_tidak_bermotor": 8,
+  "larangan_memutar_balik": 9,
+  "peringatan_alat_pemberi_isyarat_lalu_lintas": 10,
+  "peringatan_banyak_pejalan_kaki_menggunakan_zebra_cross": 11,
+  "peringatan_penegasan_rambu_tambahan": 12,
+  "peringatan_pintu_perlintasan_kereta_api": 13,
+  "peringatan_simpang_tiga_sisi_kiri": 14,
+  "perintah_masuk_jalur_kiri": 15,
+  "perintah_pilihan_memasuki_salah_satu_jalur": 16,
+  "petunjuk-penyeberangan-pejalan-kaki": 17,
+  "petunjuk_area_parkir": 18,
+  "petunjuk_lokasi_pemberhentian_bus": 19,
+  "petunjuk_lokasi_putar_balik": 20
+}
